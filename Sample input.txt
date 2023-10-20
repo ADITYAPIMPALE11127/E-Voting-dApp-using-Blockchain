@@ -1,0 +1,4 @@
+To vote for BJP (candidate 0), use the "vote" function with input 0.
+To vote for Congress (candidate 1), use the "vote" function with input 1.
+To get the vote count for BJP, use the "getVoteCountForCandidate" function with input 0.
+To get the vote count for Congress, use the "getVoteCountForCandidate" function with input 1.
